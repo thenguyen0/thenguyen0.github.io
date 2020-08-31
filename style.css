@@ -1,0 +1,26 @@
+header {
+    background-color: #666;
+    padding: 10px;
+     margin-bottom: top;
+    text-align: center;
+    font:  italic;
+    font-size: 30px;
+    font-family: courier;
+    color: white;
+  }
+  nav {
+    float: left;
+    width: 25%;
+    height: 500px; /* only for demonstration, should be removed */
+    background: #FFDF00;
+    padding: 40px;
+    border-right: 50px solid white;
+  }
+  
+  h1 
+      {
+      font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+      }
+  p {
+    font-family: courier
+  }
